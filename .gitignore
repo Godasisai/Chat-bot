@@ -1,0 +1,12 @@
+
+.vscode/
+*.gguf
+*.bin
+*.pt
+*.json
+*.ckpt
+*.mp4
+*.mkv
+*.zip
+*.tar.gz
+*.7z
